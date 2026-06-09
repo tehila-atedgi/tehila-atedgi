@@ -10,13 +10,13 @@ and I enjoy turning ideas into real systems — from desktop apps to backend log
 
 <br>
 
-<a href="https://github.com/USERNAME">
+<a href="https://github.com/tehila-atedgi">
   <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:tehilatedgi26@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-6C4DFF?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="YOUR_LINKEDIN_LINK">
+<a href="https://www.linkedin.com/in/תהילה-אטדגי-637a3339b?utm_source=share_via&utm_content=profile&utm_medium=member_ios">
   <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
