@@ -30,7 +30,7 @@ and I enjoy turning ideas into real systems — from desktop apps to backend log
 Team project — classroom reservations + issue reporting system + AI-assisted triage.  
 **Contribution:** Team contributor.
 
-👉 [View repository](https://github.com/REPO_OWNER/Smart-Campus)
+👉 [View repository](https://github.com/yahav11/Smart-Campus)
 
 ---
 
@@ -39,7 +39,7 @@ Team project — veterinary clinic system for managing clients, pets, visits, an
 Built with a focus on structured data, clear workflows, and role-based system behavior.  
 **Contribution:** Team contributor.
 
-👉 [View repository](https://github.com/REPO_OWNER/Vet-Clinic)
+👉 [View repository](https://github.com/yahav11/KeyloggerProject)
 
 ---
 
